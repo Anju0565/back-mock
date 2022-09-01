@@ -1,0 +1,22 @@
+{
+    "notes": [
+      {
+        "title": "HTML",
+        "desciption": "HTML is a markup Language",
+        "date": "2022-09-01",
+        "id": 1
+      },
+      {
+        "title": "CSS",
+        "desciption": "CSS is a cascading Style Sheet",
+        "date": "2022-09-01",
+        "id": 2
+      },
+      {
+        "title": "JS",
+        "desciption": "JavaScript is the programming language of the Web",
+        "date": "2022-09-01",
+        "id": 3
+      }
+    ]
+  }
